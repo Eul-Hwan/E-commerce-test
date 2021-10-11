@@ -6,4 +6,5 @@
 007 21-10-09 127강 Show Review & Rating on Product Details Page  
 008 21-10-10 128강 User Change Password  
 009 21-10-10 129강 Create Contact Page  
+010 21-10-11 130강 Admin Create Settings Page  
 
