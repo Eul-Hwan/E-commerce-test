@@ -9,4 +9,5 @@
 010 21-10-11 130강 Admin Create Settings Page  
 011 21-10-11 131강 Implement Settings  
 012 21-10-11 132강 Add Product Gallery  
-013 21-10-13 136강 Forgot Password  
+013 21-10-13 136강 Forgot Password (email .env 설정에서 에러가 발생함)   
+014 21-10-13 138강 Display Data On Admin Dashboard  
