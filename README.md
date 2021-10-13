@@ -12,3 +12,4 @@
 013 21-10-13 136강 Forgot Password (email .env 설정에서 에러가 발생함)   
 014 21-10-13 138강 Display Data On Admin Dashboard  
 015 21-10-13 139강 Problem of Product Gallery and Their Solution (DB없음)  
+016 21-10-13 140강 Make the Header Functional on Login and Register Page  
