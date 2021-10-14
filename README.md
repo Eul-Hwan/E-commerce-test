@@ -13,3 +13,4 @@
 014 21-10-13 138강 Display Data On Admin Dashboard  
 015 21-10-13 139강 Problem of Product Gallery and Their Solution (DB없음)  
 016 21-10-13 140강 Make the Header Functional on Login and Register Page  
+017 21-10-14 145강 Problem of Product Image Deletion and Their Solution (하지만 메인 1장이 있는 경우는 가능 하지만 여러 파일로 같이 올린 상품은 에러가 난다.)  
