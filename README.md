@@ -16,3 +16,4 @@
 017 21-10-14 145강 Problem of Product Image Deletion and Their Solution (하지만 메인 1장이 있는 경우는 가능 하지만 여러 파일로 같이 올린 상품은 에러가 난다.)  
 018 21-10-14 154강 Send Order Confirmation Email (Order 에러 Email관련 ㅜㅜ)  
 019 21-10-23 155강 Shopping Cart Using Database  
+020 21-10-26 160강 Wishlist Using Database  
