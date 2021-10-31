@@ -20,5 +20,6 @@
 021 21-10-26 161강 Wishlist Using Database (User@user.com은 데이터 1개가 추가되는 에러 있음. user2는 정상작동)  
 022 21-10-31 173강 Admin Create Subcategories  
 023 21-10-31 174강 Admin Show Subcategories with Category  
+024 21-10-31 175강 Admin Eidt Subcategories  
 
  
