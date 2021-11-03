@@ -31,3 +31,4 @@
 032 21-11-03 183강 Show User Profile Image on Product Review  
 032 21-11-03 184강 Add Search on Admin Products Page  
 033 21-11-03 185강 Create Product Attribute  
+034 21-11-03 186강 AddAttribute Option on Add New Product Page  
