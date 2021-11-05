@@ -33,3 +33,4 @@
 033 21-11-03 185강 Create Product Attribute  
 034 21-11-03 186강 AddAttribute Option on Add New Product Page  
 035 21-11-04 187강 Add Attribute Option on Edit Product Page  
+036 21-11-05 188강 Show Product Attributes on Product Details Page  
